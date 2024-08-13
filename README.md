@@ -1,11 +1,11 @@
 ### Menu App
 
 #### Overview
-This project is a mobile app built with React-Native which displays categories for the user to choose then displays meals which the user can further click on to view details about the meal. This project practices the use of proper screen navigation by utilizing
-<div align="center">
-  <img src="https://github.com/JTan242/NumberGuesserApp/assets/132401824/20043209-c505-4ccd-a306-3c79658534e8" alt="RPReplay_Final1720483887-ezgif com-video-to-gif-converter">
-</div>
+This mobile app, developed with React Native, allows users to explore various meal categories, select specific meals, and view dish information. The app showcases advanced screen navigation techniques, leveraging nested React Navigators through stacks and drawers. It also integrates the Context API for efficient state management across different components.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6e011726-d5da-4aea-bf5c-580e70c576e7" alt="RPReplay_Final1720483887-ezgif com-video-to-gif-converter">
+</div>
 
 #### Features
 - **Interactive Gameplay**: Input a number and let the app guess.
